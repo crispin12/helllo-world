@@ -1,2 +1,1 @@
-# helllo-world
-This is my repository that contains my folders and files
+hello, my name is crispin, i'm a university student in computer science. a like java script prpgramming language
